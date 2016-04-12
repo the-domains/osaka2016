@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[osaka2016]]></title>
+        <description><![CDATA[osaka2016]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 15:38:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My first Day in Osaka Japan]]></title>
+            <description><![CDATA[<article><h1>My first Day in Osaka Japan</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f36822-0179-4631-b824-74c539594d6f.jpg"></article>]]></description>
+            <link>undefinedmy-first-day-in-osaka-japan/index.html</link>
+            <guid isPermaLink="false">f73d0005-97f7-419c-ae36-eba48e8943f7</guid>
+            <pubDate>Tue, 12 Apr 2016 15:38:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
