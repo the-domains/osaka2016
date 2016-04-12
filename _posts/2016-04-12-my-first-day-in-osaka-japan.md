@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: My first visit to Osaka Japan
-datePublished: '2016-04-12T15:48:47.997Z'
-dateModified: '2016-04-12T15:48:17.394Z'
+datePublished: '2016-04-12T15:49:04.259Z'
+dateModified: '2016-04-12T15:48:53.256Z'
 title: My first Day in Osaka Japan
 author: []
 sourcePath: _posts/2016-04-12-my-first-day-in-osaka-japan.md
