@@ -1,7 +1,7 @@
 name: osaka2016
 favicon: null
-layout_spectrum: 0.9588894268963486
-typography_spectrum: 0.8044763060752302
+layout_spectrum: 0.11333
+typography_spectrum: 0.81829
 title: My first visit to Osaka
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.927806343883276
-  lightness: 0.3725635961163789
-  saturation: 0.4866964628454298
-  rhythmicContrast: 0.20137418038211763
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
